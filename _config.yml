@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site du mariage de Cécile Klinguer et Guillaume Couairon le 25 mai 2024
 author: Guillaume Couairon
 email: guillaume.couairon@gmail.com
-avatar: assets/images/savethedate.png
+avatar: assets/images/savethedate_small.jpeg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
